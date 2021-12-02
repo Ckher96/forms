@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+  width: auto;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+}
+
+.item {
+  flex: 1;
+}
